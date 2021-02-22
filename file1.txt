@@ -1,1 +1,1 @@
-some text check merge
+some text conflict master branch
